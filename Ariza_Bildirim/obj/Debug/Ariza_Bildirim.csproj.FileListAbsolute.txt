@@ -1,0 +1,15 @@
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\Ariza_Bildirim.exe.config
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\Ariza_Bildirim.exe
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\Ariza_Bildirim.pdb
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\EntityFramework.dll
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\EntityFramework.xml
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.Form1.resources
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.Properties.Resources.resources
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.csproj.CopyComplete
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.exe
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Ariza_Bildirim\obj\Debug\Ariza_Bildirim.pdb

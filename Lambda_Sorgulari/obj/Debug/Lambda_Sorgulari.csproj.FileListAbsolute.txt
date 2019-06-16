@@ -1,0 +1,15 @@
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.Form1.resources
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.Properties.Resources.resources
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\Lambda_Sorgulari.exe.config
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\Lambda_Sorgulari.exe
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\Lambda_Sorgulari.pdb
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\EntityFramework.dll
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\EntityFramework.xml
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.csproj.CopyComplete
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.exe
+C:\Users\eneso\source\repos\14052019_EntityFramework_Enes_ORUC_Odev\Lambda_Sorgulari\obj\Debug\Lambda_Sorgulari.pdb
